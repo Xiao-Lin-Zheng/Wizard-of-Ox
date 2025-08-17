@@ -1,18 +1,6 @@
 /******************************************
-*
-* Official Name: Xiao Lin Zheng
-*
-* Call me: what you like to be called (optional)
-*
-* E-mail: xzheng09@syr.edu
-*
-* Assignment: Assignment 4
-*
 * Environment/Compiler: XCode 15.4
-*
-*
-* Date submitted: April 4, 2025
-*
+
 * Interactions:
 * Press the d key to open the sliding door.
 * Press the c key to close the sliding door.
@@ -27,8 +15,6 @@
 * reference: https://stackoverflow.com/questions/63358101/how-to-visualize-a-spot-light-in-opengl
 * reference: https://learnopengl.com/Lighting/Light-casters
 *******************************************/
-
-#include"Xiao_Lin_Zheng_Assignment4.hpp"
 
 #include <iostream>
 #include <fstream>
